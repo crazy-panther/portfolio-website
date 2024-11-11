@@ -12,7 +12,7 @@ const MainSection = () => {
         </div>
         <div className="content">
             <p>Hello, I'M PALINDA.</p>
-            <h1>Full Stack Developer.</h1>
+            <h1>A Software Engineer.</h1>
             <div>
                 <Link to="/project" className="btn">Projects</Link>
                 <Link to="/contact" className="btn btn-light">Contact</Link>
